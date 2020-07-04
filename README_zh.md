@@ -2,7 +2,7 @@
 
 结合 [Cloudflare Workers](https://workers.cloudflare.com/) 和 [Google Drive](https://www.google.com/drive/) 的力量，你可以在Cloudflare Workers的浏览器上建立你的文件索引。
 
-[goindex/index.js](https://github.com/Aicirou/goindex-theme-acrou/go2index) 是Workers脚本的内容。
+[goindex/index.js](https://github.com/siasong/goindex-theme-acrou/go2index) 是Workers脚本的内容。
 
 这个主题的goindex目前是基于 [yanzai/goindex](https://github.com/yanzai/goindex/)
 
